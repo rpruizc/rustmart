@@ -31,17 +31,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2cc6d826-8e13-4a70-bb1a-aa6e39f131e1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/api.rs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/mod.rs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/product_card.rs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/mod.rs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/types.rs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/rustmart.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/rustmart.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Cargo.toml" beforeDir="false" afterPath="$PROJECT_DIR$/Cargo.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Makefile.toml" beforeDir="false" afterPath="$PROJECT_DIR$/Makefile.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lib.rs" beforeDir="false" afterPath="$PROJECT_DIR$/src/lib.rs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/home.rs" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/home.rs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,8 +91,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1600957889849</updated>
-      <workItem from="1600957891814" duration="11108000" />
+      <workItem from="1600957891814" duration="11369000" />
     </task>
+    <task id="LOCAL-00001" summary="Products, cards and cart button">
+      <created>1601059929511</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1601059929511</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -119,22 +117,30 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Products, cards and cart button" />
+    <option name="LAST_COMMIT_MESSAGE" value="Products, cards and cart button" />
+  </component>
   <component name="WindowStateProjectService">
-    <state width="1352" height="114" key="GridCell.Tab.0.bottom" timestamp="1600980109522">
+    <state width="1352" height="114" key="GridCell.Tab.0.bottom" timestamp="1601083922245">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1352" height="114" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1600980109522" />
-    <state width="1352" height="114" key="GridCell.Tab.0.center" timestamp="1600980109522">
+    <state width="1352" height="114" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1601083922245" />
+    <state width="1352" height="114" key="GridCell.Tab.0.center" timestamp="1601083922244">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1352" height="114" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1600980109522" />
-    <state width="1352" height="114" key="GridCell.Tab.0.left" timestamp="1600980109521">
+    <state width="1352" height="114" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1601083922244" />
+    <state width="1352" height="114" key="GridCell.Tab.0.left" timestamp="1601083922243">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1352" height="114" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1600980109521" />
-    <state width="1352" height="114" key="GridCell.Tab.0.right" timestamp="1600980109522">
+    <state width="1352" height="114" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1601083922243" />
+    <state width="1352" height="114" key="GridCell.Tab.0.right" timestamp="1601083922244">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1352" height="114" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1600980109522" />
+    <state width="1352" height="114" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1601083922244" />
+    <state x="297" y="25" key="Vcs.Push.Dialog.v2" timestamp="1601059931444">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="297" y="25" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1601059931444" />
   </component>
 </project>
